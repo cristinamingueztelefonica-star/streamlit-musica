@@ -1,0 +1,5 @@
+streamlit>=1.36
+torch
+transformers>=4.40,<5
+scipy
+encodec
